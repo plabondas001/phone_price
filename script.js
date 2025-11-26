@@ -18,7 +18,7 @@ function getMax(phones){
 }
 
 let maxPrice = getMax(phones);
-console.log(maxPrice);
+console.log('Highest price: ', maxPrice);
 
 
 // Lowest price
